@@ -2,7 +2,7 @@
 #  Andréia Lima
 Universitária iniciando em programação com a linguagem Java.
 Em breve espero atualizar para Javascript também.
-Já possuo conhecimento básico com html, css e estou iniciando desenvolvimento de Banco de Dados em java.
+Já possuo conhecimento básico com html, css e estou iniciando desenvolvimento de Banco de Dados.
 Atualmente sou estagiária na empresa Rius - Soluções e Tecnologia (Vendergas), uma startup de desenvolvimento de ferramentas ERP.
 
 - 👀 I’m interested in ...
